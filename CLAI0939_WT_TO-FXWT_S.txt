@@ -1,0 +1,14 @@
+:20:1234567890109
+:32A:2020090720200907EUR26000,
+:36:1.000000A
+:50:/2345678900
+CLAI Client
+:57A:BCITITMMXXX
+:59:/1233453
+Intesa Sanpaolo
+Filiale Imprese Milano Citta
+Via Montebello 18, 20121 Milano
+:70:10179 Plymouth Ct
+Parker
+CO 80134
+:END:
